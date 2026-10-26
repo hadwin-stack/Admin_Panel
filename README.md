@@ -1,14 +1,14 @@
 # Event Registration Admin Panel (MERN Stack)
 
 ## Project Architecture
-- `backend/`: Node.js, Express, Mongoose API configuration setup.
-- `frontend/`: React, Tailwind CSS UI application module.
+- `Backend/`: Node.js, Express, Mongoose API configuration setup.
+- `Frontend/`: React, Tailwind CSS UI application module.
 
 ## Setup Instructions
 
 ### 1. Run the Backend Server
 ```bash
-cd backend
+cd Backend
 npm install
 npm start
 ```
@@ -16,7 +16,7 @@ npm start
 
 ### 2. Run the Frontend UI Application
 ```bash
-cd frontend
+cd Frontend
 npm install
 npm run dev
 ```
