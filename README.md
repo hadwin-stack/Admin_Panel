@@ -12,7 +12,7 @@ cd backend
 npm install
 npm start
 ```
-*Note: The required `.env` file is included*
+*note: The required `.env` file is included in the Backend folder*
 
 ### 2. Run the Frontend UI Application
 ```bash
