@@ -1,4 +1,4 @@
-# Event Management Admin Panel (MERN Stack)
+# Event Registration Admin Panel (MERN Stack)
 
 ## Project Architecture
 - `backend/`: Node.js, Express, Mongoose API configuration setup.
