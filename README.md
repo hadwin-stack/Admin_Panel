@@ -16,7 +16,7 @@ npm start
 
 ### 2. Run the Frontend UI Application
 ```bash
-cd ../frontend
+cd frontend
 npm install
 npm run dev
 ```
