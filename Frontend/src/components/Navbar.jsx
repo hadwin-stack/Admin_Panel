@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <span className="text-xl font-bold tracking-wider text-indigo-400">📅 Events Anounced</span>
-            <span className="text-xs bg-slate-800 text-slate-400 px-2 py-1 rounded font-mono">EVENT</span>
+            <span className="text-xs bg-slate-800 text-slate-400 px-2 py-1 rounded font-mono">ADMIN</span>
           </div>
           <div className="flex space-x-4">
             <NavLink
